@@ -45,7 +45,7 @@ After every player has completed a turn, compare the roll counts.
 
 ## Winning the game
 
-A game lasts **five rounds**. After the fifth round, add up the points.
+A game lasts **three rounds**. After the third round, add up the points.
 
 - The player with the most points wins.
 - If two or more players share the highest score, the game is a **draw** and they share the win.
